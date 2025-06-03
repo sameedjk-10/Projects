@@ -1,0 +1,14 @@
+Route # 1: 
+23 Seats Available
+
+Route # 2: 
+6 Seats Available
+
+Route # 3:
+12 Seats Available
+
+Route # 4:
+8 Seats Available
+
+Route # 5:
+15 Seats Available

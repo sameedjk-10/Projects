@@ -1,0 +1,65 @@
+Route # 1:            Capacity = 35
+Jamal: 0345-1234856
+
+Malir Cantt Phase 2            6:50
+Malir Cantt Gate 2             6:50
+Malir Cantt Gate 3             6:52
+Malir Cantt Check post 5       6:55
+Malir Cantt Check post 6       6:58
+Cross tank chowk               7:00
+Malir halt                     7:05
+FAST NU                        7:15
+
+
+Route # 2:            Capacity = 35
+Ali: 0311-3468895
+
+Soldier Bazar                  6:30
+Guro Mandir                    6:35
+Islamiya College               6:04
+Jail road                      6:10
+Stadium Road                   6:45
+Dalmia                         6:55
+Natta Khan                     7:05
+Shahrah-e-faisal               7:45
+FAST NU                        7:15
+
+
+Route # 3:            Capacity = 35
+Hasnain: 0300-5318073
+
+Jail Road                      6:35
+Jamshed Road                   6:40
+Khudadad Colony                6:45
+Kashmir Road                   6:47
+Sir Syed Road                  6:50
+Khalid Bin Waleed Road         6:55
+Tariq Road                     7:00
+Tipu Sultan Road               7:05
+FAST NU                        7:15
+
+
+Route # 4:            Capacity = 35
+Shehzad: 0345-3778431
+
+Sharfabad                      6:00
+Bahadurabad                    6:20
+Dhoraji                        6:30
+M.Ali Society                  6:40
+Wireless Gate                  6:47
+Malir Halt                     6:55
+FAST NU                        7:15
+
+
+Route # 5:            Capacity = 35
+Ahmed: 0300-5224981
+
+Jail Road                      6:35
+Jamshed Road                   6:40
+Khudadad Colony                6:45
+Kashmir Road                   6:47
+Sir Syed Road                  6:50
+Khalid Bin Waleed Road         6:55
+Tariq Road                     7:00
+Tipu Sultan Road               7:05
+FAST NU                        7:15
